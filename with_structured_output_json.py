@@ -70,6 +70,6 @@ Bulky and heavy—not great for one-handed use
 Bloatware still exists in One UI
 Expensive compared to competitors
 
-Review by Nitish Singh""")
+Review by reviewer_name""")
 
 print(result)
